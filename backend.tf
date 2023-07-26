@@ -1,9 +1,9 @@
 terraform {
   cloud {
-    organization = "<ORGANIZATION>"
+    organization = "techweb"
 
     workspaces {
-      name = "testing"
+      name = "dv"
     }
   }
 }
